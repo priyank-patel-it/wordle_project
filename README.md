@@ -25,6 +25,7 @@ This is the main one and the most complex of all the screens as is the one where
 
 #### ❓ **Guess grid** 
 As the name states is the area where the user can write down a guess word. The first thing that happens when the user writes down a word is that we check that this word exist in the english dictionary. If the word does **not** exist the row will shake and a toast message will be displayed 
+
 ![Wordle Gifs](https://user-images.githubusercontent.com/81619759/158995059-250dfaf1-018a-4dfd-995b-915334fd7469.gif)
 
 After so we have to check the user guess with the right word. So here comes the trick:
